@@ -4,6 +4,7 @@ Public runtime content and code resources for Algorithm Learning.
 
 - Curriculum: `Cdn/content/latest.json`
 - Android 0.1.0 code: `Cdn/code/0.1.0/Android/DefaultPackage.version`
+- Android 0.1.2 / Unity 6 code: `Cdn/code/0.1.2/Android/DefaultPackage.version`
 - APK downloads: GitHub Releases
 
 Contains 100 LeetCode Hot 100 entries, 35 Codeforces entries and 135 authored lessons.
